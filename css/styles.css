@@ -13,10 +13,3 @@ body {
 	background: #3B195E;
 	color:white;
 }
-
-.col-xs-12  {
-	background-color:  #AA076B; 
-	height: auto; 
-    background: -webkit-linear-gradient(to left, #61045F, #AA076B); 
-    background: linear-gradient(to left, #61045F, #AA076B); 
-}
